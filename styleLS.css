@@ -1,0 +1,191 @@
+body{
+    background-image: url('https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.signup{
+     
+ width: 360px;
+ height: 600px;
+ margin-top: 1%;
+ margin-left: 40%;
+ background: white;
+ background-color: transparent;
+ border-radius: 10px;
+ backdrop-filter: blur(50px);
+
+}
+label{
+    color:white;
+}
+.login{
+     
+    width: 360px;
+    height: 450px;
+    margin-top: 1%;
+    margin-left: 40%;
+    /* background: white; */
+    background-color: transparent;
+    border-radius: 10px;
+    backdrop-filter: blur(50px);
+   
+   }
+h1{
+    text-align: center;
+    color:whitesmoke;
+    
+}
+#wel{
+    color: aliceblue;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+
+}
+
+form input{
+    width: 100%;
+    padding: 7px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    background-color: transparent ;
+    color: antiquewhite;
+    border-bottom: 2px solid black;
+
+    
+}
+button[type="submit"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 25px;
+    border: none;
+    background-color:black;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+
+input[type="submit"]:hover{
+    color: white;
+    background: blue;
+}
+
+
+input[type="submit"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 25px;
+    border: none;
+    background-color:blue;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover{
+    color: white;
+    background: blue;
+    
+}
+p{
+    text-align: center;
+
+}
+#log{
+    color: aliceblue;
+    background-color:gray;
+    border-radius: 1px;
+    margin-left: 50px;
+}
+#log:hover{
+    color: white;
+    background: blue;
+}
+
+#sin{
+    /* color: aliceblue;
+    background-color:black;
+    border-radius: 1px;
+    margin-left: 50px; */
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color:#11246e;
+    border: none;
+    margin-top: 20px;   
+    
+
+}
+
+#sin:hover{
+    color: white;
+    background: blue;
+}
+#logout{
+    font-size: 30px;
+    width: 360px;
+    height: 600px;
+    margin: auto;
+    background: lightseagreen;
+    border-radius: 3px; 
+       
+}
+.logo{
+    padding: 10px;
+    
+    
+    background-color: transparent;
+    width:50px;
+    margin-left: 700px;
+
+}
+a{
+    text-decoration: none;
+    color:white;
+
+}
+a:hover{
+    color:darkgray;
+}
+#logout{
+    background-color:black;
+    border-radius: 1px;
+    margin-left: 10px;
+}
+#check{
+    margin-left: -140px;
+    margin-right: -140px;
+    margin-top: 10px;
+}
+.captcha1{
+    margin-top: 10px;
+    width: 80%;
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+}
+.captcha2{
+    margin-top: 26px;
+    width:90%;
+    padding: 5px;
+    border-radius: 4px;
+    /* outline: none; */
+    
+
+
+}
+input[type="textc"]{
+    border-bottom: none;
+}
+

@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('tri.png');
+}
+.indexb{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    padding: 60px;
+    margin: auto;
+}
+#button2{
+    padding: 10px;
+    color: white;
+    background-color:#11246e;
+    border: none;
+    border-radius: 10px;
+}
+#button2:hover{
+    background-color: black;
+}
+#slide{
+    width: 550px;
+}
